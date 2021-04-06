@@ -10,4 +10,4 @@ ale zkusim to ještě jednou.
 
 ----------------
 
-JE ŠESTÝHO DUBNA A nacházím NA GITHUBU KONFLIKT
+JE ŠESTÝHO DUBNA A HLEDÁM NA GITHUBU KONFLIKT
